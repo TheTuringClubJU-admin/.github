@@ -2,14 +2,14 @@
 
 > Automated contribution statistics across public repositories.
 
-**Last updated:** 2026-10-25 11:17 UTC
+**Last updated:** 2026-10-25 11:51 UTC
 **Reporting month:** 2026-10 UTC
 
 ## Organization overview — all time
 
 | Repositories | Contributors | Commits | PRs opened | PRs merged | Reviews | Lines added | Lines deleted |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| 2 | 10 | 166 | 40 | 35 | 20 | +20,882 | -2,134 |2
+| 2 | 10 | 166 | 40 | 35 | 20 | +20,882 | -2,134 |
 
 ## Current month — 2026-10
 
