@@ -2,31 +2,31 @@
 
 > Automated contribution statistics across public repositories.
 
-**Last updated:** 2026-10-28 10:37 UTC
+**Last updated:** 2026-10-29 10:55 UTC
 **Reporting month:** 2026-10 UTC
 
 ## Organization overview — all time
 
 | Repositories | Contributors | Commits | PRs opened | PRs merged | Reviews | Lines added | Lines deleted |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| 2 | 10 | 167 | 40 | 35 | 20 | +20,883 | -2,135 |
+| 3 | 10 | 172 | 41 | 36 | 21 | +25,281 | -2,187 |
 
 ## Current month — 2026-10
 
 | Commits | PRs opened | PRs merged | Reviews | Lines added | Lines deleted |
 |---:|---:|---:|---:|---:|---:|
-| 104 | 22 | 18 | 14 | +12,064 | -1,826 |
+| 109 | 23 | 19 | 15 | +16,462 | -1,878 |
 
 ## All-time contributor leaderboard
 
 | Contributor | Commits | PRs opened | PRs merged | Reviews | Lines added | Lines deleted |
 |---|---:|---:|---:|---:|---:|---:|
-| [@CODING-DARSH](https://github.com/CODING-DARSH) | 109 | 16 | 16 | 18 | +14,937 | -1,199 |
+| [@CODING-DARSH](https://github.com/CODING-DARSH) | 114 | 16 | 16 | 19 | +19,335 | -1,251 |
 | [@Swapnil-Ghosh06](https://github.com/Swapnil-Ghosh06) | 45 | 8 | 6 | 1 | +1,939 | -623 |
 | [@krishnapriya-op](https://github.com/krishnapriya-op) | 7 | 5 | 5 | 0 | +141 | -12 |
 | [@subham-OPS08](https://github.com/subham-OPS08) | 2 | 4 | 4 | 0 | +304 | -58 |
+| [@TheTuringClubJU-admin](https://github.com/TheTuringClubJU-admin) | 0 | 3 | 3 | 0 | +0 | -0 |
 | [@sukrit325](https://github.com/sukrit325) | 2 | 1 | 1 | 0 | +1,226 | -237 |
-| [@TheTuringClubJU-admin](https://github.com/TheTuringClubJU-admin) | 0 | 2 | 2 | 0 | +0 | -0 |
 | [@shxhxn](https://github.com/shxhxn) | 2 | 0 | 0 | 0 | +2,336 | -6 |
 | [@Diganth07](https://github.com/Diganth07) | 0 | 3 | 1 | 0 | +0 | -0 |
 | copilot-pull-request-reviewer[bot] | 0 | 0 | 0 | 1 | +0 | -0 |
@@ -36,12 +36,12 @@
 
 | Contributor | Commits | PRs opened | PRs merged | Reviews | Lines added | Lines deleted |
 |---|---:|---:|---:|---:|---:|---:|
-| [@CODING-DARSH](https://github.com/CODING-DARSH) | 53 | 5 | 5 | 13 | +6,259 | -902 |
+| [@CODING-DARSH](https://github.com/CODING-DARSH) | 58 | 5 | 5 | 14 | +10,657 | -954 |
 | [@Swapnil-Ghosh06](https://github.com/Swapnil-Ghosh06) | 45 | 8 | 6 | 1 | +1,939 | -623 |
 | [@subham-OPS08](https://github.com/subham-OPS08) | 2 | 4 | 4 | 0 | +304 | -58 |
+| [@TheTuringClubJU-admin](https://github.com/TheTuringClubJU-admin) | 0 | 2 | 2 | 0 | +0 | -0 |
 | [@sukrit325](https://github.com/sukrit325) | 2 | 1 | 1 | 0 | +1,226 | -237 |
 | [@shxhxn](https://github.com/shxhxn) | 2 | 0 | 0 | 0 | +2,336 | -6 |
-| [@TheTuringClubJU-admin](https://github.com/TheTuringClubJU-admin) | 0 | 1 | 1 | 0 | +0 | -0 |
 | [@Diganth07](https://github.com/Diganth07) | 0 | 3 | 1 | 0 | +0 | -0 |
 | [@krishnapriya-op](https://github.com/krishnapriya-op) | 0 | 0 | 0 | 0 | +0 | -0 |
 | [@SOLANKYYY](https://github.com/SOLANKYYY) | 0 | 0 | 0 | 0 | +0 | -0 |
@@ -53,6 +53,7 @@
 |---|---:|---:|---:|---:|
 | [turing-webstie](https://github.com/TheTuringClubJU/turing-webstie) | 104 | 27 | 22 | 8 |
 | [turing-registration](https://github.com/TheTuringClubJU/turing-registration) | 63 | 13 | 13 | 5 |
+| [curse-the-code](https://github.com/TheTuringClubJU/curse-the-code) | 5 | 1 | 1 | 2 |
 
 ## Methodology
 

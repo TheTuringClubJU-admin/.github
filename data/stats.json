@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-28 10:37 UTC",
+  "generated_at": "2026-10-29 10:55 UTC",
   "month": "2026-10",
   "organization": "TheTuringClubJU",
   "people": {
     "CODING-DARSH": {
-      "additions_all": 14937,
-      "additions_month": 6259,
-      "commits_all": 109,
-      "commits_month": 53,
-      "deletions_all": 1199,
-      "deletions_month": 902,
+      "additions_all": 19335,
+      "additions_month": 10657,
+      "commits_all": 114,
+      "commits_month": 58,
+      "deletions_all": 1251,
+      "deletions_month": 954,
       "prs_merged_all": 16,
       "prs_merged_month": 5,
       "prs_opened_all": 16,
       "prs_opened_month": 5,
-      "repositories": 2,
-      "reviews_all": 18,
-      "reviews_month": 13
+      "repositories": 3,
+      "reviews_all": 19,
+      "reviews_month": 14
     },
     "Diganth07": {
       "additions_all": 0,
@@ -70,11 +70,11 @@
       "commits_month": 0,
       "deletions_all": 0,
       "deletions_month": 0,
-      "prs_merged_all": 2,
-      "prs_merged_month": 1,
-      "prs_opened_all": 2,
-      "prs_opened_month": 1,
-      "repositories": 2,
+      "prs_merged_all": 3,
+      "prs_merged_month": 2,
+      "prs_opened_all": 3,
+      "prs_opened_month": 2,
+      "repositories": 3,
       "reviews_all": 0,
       "reviews_month": 0
     },
@@ -174,7 +174,17 @@
       "prs_opened": 13,
       "reviews": 4,
       "url": "https://github.com/TheTuringClubJU/turing-registration"
+    },
+    {
+      "commits": 5,
+      "contributors": 2,
+      "full_name": "TheTuringClubJU/curse-the-code",
+      "name": "curse-the-code",
+      "prs_merged": 1,
+      "prs_opened": 1,
+      "reviews": 1,
+      "url": "https://github.com/TheTuringClubJU/curse-the-code"
     }
   ],
-  "repositories_scanned": 2
+  "repositories_scanned": 3
 }
