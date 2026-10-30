@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-29 10:55 UTC",
+  "generated_at": "2026-10-30 10:54 UTC",
   "month": "2026-10",
   "organization": "TheTuringClubJU",
   "people": {
     "CODING-DARSH": {
-      "additions_all": 19335,
-      "additions_month": 10657,
-      "commits_all": 114,
-      "commits_month": 58,
-      "deletions_all": 1251,
-      "deletions_month": 954,
-      "prs_merged_all": 16,
-      "prs_merged_month": 5,
-      "prs_opened_all": 16,
-      "prs_opened_month": 5,
+      "additions_all": 33376,
+      "additions_month": 24698,
+      "commits_all": 124,
+      "commits_month": 68,
+      "deletions_all": 1338,
+      "deletions_month": 1041,
+      "prs_merged_all": 18,
+      "prs_merged_month": 7,
+      "prs_opened_all": 18,
+      "prs_opened_month": 7,
       "repositories": 3,
       "reviews_all": 19,
       "reviews_month": 14
@@ -176,12 +176,12 @@
       "url": "https://github.com/TheTuringClubJU/turing-registration"
     },
     {
-      "commits": 5,
+      "commits": 15,
       "contributors": 2,
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
-      "prs_merged": 1,
-      "prs_opened": 1,
+      "prs_merged": 3,
+      "prs_opened": 3,
       "reviews": 1,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     }
