@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30 10:54 UTC",
+  "generated_at": "2026-10-31 10:24 UTC",
   "month": "2026-10",
   "organization": "TheTuringClubJU",
   "people": {
@@ -32,6 +32,21 @@
       "repositories": 1,
       "reviews_all": 0,
       "reviews_month": 0
+    },
+    "Haripriya24071": {
+      "additions_all": 0,
+      "additions_month": 0,
+      "commits_all": 0,
+      "commits_month": 0,
+      "deletions_all": 0,
+      "deletions_month": 0,
+      "prs_merged_all": 0,
+      "prs_merged_month": 0,
+      "prs_opened_all": 0,
+      "prs_opened_month": 0,
+      "repositories": 1,
+      "reviews_all": 1,
+      "reviews_month": 1
     },
     "SOLANKYYY": {
       "additions_all": 0,
@@ -177,12 +192,12 @@
     },
     {
       "commits": 15,
-      "contributors": 2,
+      "contributors": 3,
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
       "prs_merged": 3,
       "prs_opened": 3,
-      "reviews": 1,
+      "reviews": 2,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     }
   ],

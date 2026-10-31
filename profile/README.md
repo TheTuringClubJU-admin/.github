@@ -2,20 +2,20 @@
 
 > Automated contribution statistics across public repositories.
 
-**Last updated:** 2026-10-30 10:54 UTC
+**Last updated:** 2026-10-31 10:24 UTC
 **Reporting month:** 2026-10 UTC
 
 ## Organization overview — all time
 
 | Repositories | Contributors | Commits | PRs opened | PRs merged | Reviews | Lines added | Lines deleted |
 |---:|---:|---:|---:|---:|---:|---:|---:|
-| 3 | 10 | 182 | 43 | 38 | 21 | +39,322 | -2,274 |
+| 3 | 11 | 182 | 43 | 38 | 22 | +39,322 | -2,274 |
 
 ## Current month — 2026-10
 
 | Commits | PRs opened | PRs merged | Reviews | Lines added | Lines deleted |
 |---:|---:|---:|---:|---:|---:|
-| 119 | 25 | 21 | 15 | +30,503 | -1,965 |
+| 119 | 25 | 21 | 16 | +30,503 | -1,965 |
 
 ## All-time contributor leaderboard
 
@@ -29,6 +29,7 @@
 | [@sukrit325](https://github.com/sukrit325) | 2 | 1 | 1 | 0 | +1,226 | -237 |
 | [@shxhxn](https://github.com/shxhxn) | 2 | 0 | 0 | 0 | +2,336 | -6 |
 | [@Diganth07](https://github.com/Diganth07) | 0 | 3 | 1 | 0 | +0 | -0 |
+| [@Haripriya24071](https://github.com/Haripriya24071) | 0 | 0 | 0 | 1 | +0 | -0 |
 | copilot-pull-request-reviewer[bot] | 0 | 0 | 0 | 1 | +0 | -0 |
 | [@SOLANKYYY](https://github.com/SOLANKYYY) | 0 | 1 | 0 | 0 | +0 | -0 |
 
@@ -43,6 +44,7 @@
 | [@sukrit325](https://github.com/sukrit325) | 2 | 1 | 1 | 0 | +1,226 | -237 |
 | [@shxhxn](https://github.com/shxhxn) | 2 | 0 | 0 | 0 | +2,336 | -6 |
 | [@Diganth07](https://github.com/Diganth07) | 0 | 3 | 1 | 0 | +0 | -0 |
+| [@Haripriya24071](https://github.com/Haripriya24071) | 0 | 0 | 0 | 1 | +0 | -0 |
 | [@krishnapriya-op](https://github.com/krishnapriya-op) | 0 | 0 | 0 | 0 | +0 | -0 |
 | [@SOLANKYYY](https://github.com/SOLANKYYY) | 0 | 0 | 0 | 0 | +0 | -0 |
 | copilot-pull-request-reviewer[bot] | 0 | 0 | 0 | 0 | +0 | -0 |
@@ -53,7 +55,7 @@
 |---|---:|---:|---:|---:|
 | [turing-webstie](https://github.com/TheTuringClubJU/turing-webstie) | 104 | 27 | 22 | 8 |
 | [turing-registration](https://github.com/TheTuringClubJU/turing-registration) | 63 | 13 | 13 | 5 |
-| [curse-the-code](https://github.com/TheTuringClubJU/curse-the-code) | 15 | 3 | 3 | 2 |
+| [curse-the-code](https://github.com/TheTuringClubJU/curse-the-code) | 15 | 3 | 3 | 3 |
 
 ## Methodology
 
