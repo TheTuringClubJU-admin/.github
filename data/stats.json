@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 12:11 UTC",
+  "generated_at": "2026-11-05 12:24 UTC",
   "month": "2026-11",
   "organization": "TheTuringClubJU",
   "people": {
@@ -34,19 +34,19 @@
       "reviews_month": 0
     },
     "Haripriya24071": {
-      "additions_all": 0,
-      "additions_month": 0,
-      "commits_all": 0,
-      "commits_month": 0,
-      "deletions_all": 0,
-      "deletions_month": 0,
+      "additions_all": 2,
+      "additions_month": 2,
+      "commits_all": 1,
+      "commits_month": 1,
+      "deletions_all": 2,
+      "deletions_month": 2,
       "prs_merged_all": 0,
       "prs_merged_month": 0,
       "prs_opened_all": 0,
       "prs_opened_month": 0,
       "repositories": 1,
-      "reviews_all": 11,
-      "reviews_month": 10
+      "reviews_all": 12,
+      "reviews_month": 11
     },
     "SOLANKYYY": {
       "additions_all": 0,
@@ -117,8 +117,8 @@
       "deletions_month": 0,
       "prs_merged_all": 5,
       "prs_merged_month": 0,
-      "prs_opened_all": 6,
-      "prs_opened_month": 1,
+      "prs_opened_all": 7,
+      "prs_opened_month": 2,
       "repositories": 3,
       "reviews_all": 0,
       "reviews_month": 0
@@ -130,8 +130,8 @@
       "commits_month": 0,
       "deletions_all": 6,
       "deletions_month": 0,
-      "prs_merged_all": 0,
-      "prs_merged_month": 0,
+      "prs_merged_all": 2,
+      "prs_merged_month": 2,
       "prs_opened_all": 2,
       "prs_opened_month": 2,
       "repositories": 2,
@@ -191,13 +191,13 @@
       "url": "https://github.com/TheTuringClubJU/turing-registration"
     },
     {
-      "commits": 27,
+      "commits": 28,
       "contributors": 5,
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
-      "prs_merged": 6,
-      "prs_opened": 9,
-      "reviews": 14,
+      "prs_merged": 8,
+      "prs_opened": 10,
+      "reviews": 15,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     }
   ],
