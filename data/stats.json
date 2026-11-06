@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-05 12:24 UTC",
+  "generated_at": "2026-11-06 12:09 UTC",
   "month": "2026-11",
   "organization": "TheTuringClubJU",
   "people": {
     "CODING-DARSH": {
-      "additions_all": 42596,
-      "additions_month": 0,
-      "commits_all": 136,
-      "commits_month": 0,
-      "deletions_all": 3954,
-      "deletions_month": 0,
-      "prs_merged_all": 21,
-      "prs_merged_month": 0,
-      "prs_opened_all": 21,
-      "prs_opened_month": 0,
+      "additions_all": 42854,
+      "additions_month": 258,
+      "commits_all": 140,
+      "commits_month": 4,
+      "deletions_all": 4018,
+      "deletions_month": 64,
+      "prs_merged_all": 22,
+      "prs_merged_month": 1,
+      "prs_opened_all": 22,
+      "prs_opened_month": 1,
       "repositories": 3,
       "reviews_all": 21,
       "reviews_month": 2
@@ -44,9 +44,9 @@
       "prs_merged_month": 0,
       "prs_opened_all": 0,
       "prs_opened_month": 0,
-      "repositories": 1,
-      "reviews_all": 12,
-      "reviews_month": 11
+      "repositories": 2,
+      "reviews_all": 17,
+      "reviews_month": 16
     },
     "SOLANKYYY": {
       "additions_all": 0,
@@ -120,8 +120,8 @@
       "prs_opened_all": 7,
       "prs_opened_month": 2,
       "repositories": 3,
-      "reviews_all": 0,
-      "reviews_month": 0
+      "reviews_all": 2,
+      "reviews_month": 2
     },
     "shxhxn": {
       "additions_all": 2336,
@@ -181,23 +181,23 @@
       "url": "https://github.com/TheTuringClubJU/turing-webstie"
     },
     {
-      "commits": 63,
-      "contributors": 5,
+      "commits": 65,
+      "contributors": 6,
       "full_name": "TheTuringClubJU/turing-registration",
       "name": "turing-registration",
-      "prs_merged": 13,
-      "prs_opened": 13,
-      "reviews": 4,
+      "prs_merged": 14,
+      "prs_opened": 14,
+      "reviews": 6,
       "url": "https://github.com/TheTuringClubJU/turing-registration"
     },
     {
-      "commits": 28,
+      "commits": 30,
       "contributors": 5,
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
       "prs_merged": 8,
       "prs_opened": 10,
-      "reviews": 15,
+      "reviews": 20,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     }
   ],
