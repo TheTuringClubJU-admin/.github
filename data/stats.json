@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 12:55 UTC",
+  "generated_at": "2026-11-10 12:41 UTC",
   "month": "2026-11",
   "organization": "TheTuringClubJU",
   "people": {
@@ -12,11 +12,11 @@
       "deletions_month": 453,
       "prs_merged_all": 24,
       "prs_merged_month": 3,
-      "prs_opened_all": 24,
-      "prs_opened_month": 3,
+      "prs_opened_all": 25,
+      "prs_opened_month": 4,
       "repositories": 3,
-      "reviews_all": 24,
-      "reviews_month": 5
+      "reviews_all": 26,
+      "reviews_month": 7
     },
     "Diganth07": {
       "additions_all": 0,
@@ -40,8 +40,8 @@
       "commits_month": 2,
       "deletions_all": 2,
       "deletions_month": 2,
-      "prs_merged_all": 1,
-      "prs_merged_month": 1,
+      "prs_merged_all": 2,
+      "prs_merged_month": 2,
       "prs_opened_all": 2,
       "prs_opened_month": 2,
       "repositories": 2,
@@ -72,9 +72,9 @@
       "deletions_month": 0,
       "prs_merged_all": 6,
       "prs_merged_month": 0,
-      "prs_opened_all": 8,
-      "prs_opened_month": 0,
-      "repositories": 1,
+      "prs_opened_all": 9,
+      "prs_opened_month": 1,
+      "repositories": 2,
       "reviews_all": 1,
       "reviews_month": 0
     },
@@ -192,12 +192,12 @@
     },
     {
       "commits": 35,
-      "contributors": 6,
+      "contributors": 7,
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
-      "prs_merged": 15,
-      "prs_opened": 17,
-      "reviews": 33,
+      "prs_merged": 16,
+      "prs_opened": 19,
+      "reviews": 35,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     }
   ],
