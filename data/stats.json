@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-13 12:15 UTC",
+  "generated_at": "2026-11-14 11:30 UTC",
   "month": "2026-11",
   "organization": "TheTuringClubJU",
   "people": {
     "CODING-DARSH": {
-      "additions_all": 59046,
-      "additions_month": 16450,
-      "commits_all": 160,
-      "commits_month": 24,
-      "deletions_all": 5048,
-      "deletions_month": 1094,
-      "prs_merged_all": 28,
-      "prs_merged_month": 7,
+      "additions_all": 60406,
+      "additions_month": 17810,
+      "commits_all": 161,
+      "commits_month": 25,
+      "deletions_all": 5203,
+      "deletions_month": 1249,
+      "prs_merged_all": 29,
+      "prs_merged_month": 8,
       "prs_opened_all": 29,
       "prs_opened_month": 8,
       "repositories": 3,
@@ -36,8 +36,8 @@
     "Haripriya24071": {
       "additions_all": 44,
       "additions_month": 44,
-      "commits_all": 15,
-      "commits_month": 15,
+      "commits_all": 18,
+      "commits_month": 18,
       "deletions_all": 18,
       "deletions_month": 18,
       "prs_merged_all": 2,
@@ -45,8 +45,8 @@
       "prs_opened_all": 2,
       "prs_opened_month": 2,
       "repositories": 2,
-      "reviews_all": 32,
-      "reviews_month": 31
+      "reviews_all": 36,
+      "reviews_month": 35
     },
     "SOLANKYYY": {
       "additions_all": 0,
@@ -64,16 +64,16 @@
       "reviews_month": 0
     },
     "Swapnil-Ghosh06": {
-      "additions_all": 1939,
-      "additions_month": 0,
-      "commits_all": 45,
-      "commits_month": 0,
-      "deletions_all": 623,
-      "deletions_month": 0,
-      "prs_merged_all": 6,
-      "prs_merged_month": 0,
-      "prs_opened_all": 10,
-      "prs_opened_month": 2,
+      "additions_all": 2332,
+      "additions_month": 393,
+      "commits_all": 46,
+      "commits_month": 1,
+      "deletions_all": 634,
+      "deletions_month": 11,
+      "prs_merged_all": 7,
+      "prs_merged_month": 1,
+      "prs_opened_all": 12,
+      "prs_opened_month": 4,
       "repositories": 2,
       "reviews_all": 1,
       "reviews_month": 0
@@ -109,16 +109,16 @@
       "reviews_month": 0
     },
     "krishnapriya-op": {
-      "additions_all": 1369,
-      "additions_month": 1228,
-      "commits_all": 13,
-      "commits_month": 6,
+      "additions_all": 1371,
+      "additions_month": 1230,
+      "commits_all": 14,
+      "commits_month": 7,
       "deletions_all": 218,
       "deletions_month": 206,
-      "prs_merged_all": 7,
-      "prs_merged_month": 2,
-      "prs_opened_all": 7,
-      "prs_opened_month": 2,
+      "prs_merged_all": 8,
+      "prs_merged_month": 3,
+      "prs_opened_all": 8,
+      "prs_opened_month": 3,
       "repositories": 3,
       "reviews_all": 2,
       "reviews_month": 2
@@ -181,13 +181,13 @@
       "url": "https://github.com/TheTuringClubJU/turing-webstie"
     },
     {
-      "commits": 75,
+      "commits": 81,
       "contributors": 7,
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
-      "prs_merged": 20,
-      "prs_opened": 24,
-      "reviews": 41,
+      "prs_merged": 23,
+      "prs_opened": 27,
+      "reviews": 45,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     },
     {
