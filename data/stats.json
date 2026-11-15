@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 11:30 UTC",
+  "generated_at": "2026-11-15 11:58 UTC",
   "month": "2026-11",
   "organization": "TheTuringClubJU",
   "people": {
@@ -34,10 +34,10 @@
       "reviews_month": 0
     },
     "Haripriya24071": {
-      "additions_all": 44,
-      "additions_month": 44,
-      "commits_all": 18,
-      "commits_month": 18,
+      "additions_all": 47,
+      "additions_month": 47,
+      "commits_all": 19,
+      "commits_month": 19,
       "deletions_all": 18,
       "deletions_month": 18,
       "prs_merged_all": 2,
@@ -45,8 +45,8 @@
       "prs_opened_all": 2,
       "prs_opened_month": 2,
       "repositories": 2,
-      "reviews_all": 36,
-      "reviews_month": 35
+      "reviews_all": 37,
+      "reviews_month": 36
     },
     "SOLANKYYY": {
       "additions_all": 0,
@@ -72,8 +72,8 @@
       "deletions_month": 11,
       "prs_merged_all": 7,
       "prs_merged_month": 1,
-      "prs_opened_all": 12,
-      "prs_opened_month": 4,
+      "prs_opened_all": 13,
+      "prs_opened_month": 5,
       "repositories": 2,
       "reviews_all": 1,
       "reviews_month": 0
@@ -181,13 +181,13 @@
       "url": "https://github.com/TheTuringClubJU/turing-webstie"
     },
     {
-      "commits": 81,
+      "commits": 82,
       "contributors": 7,
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
       "prs_merged": 23,
-      "prs_opened": 27,
-      "reviews": 45,
+      "prs_opened": 28,
+      "reviews": 46,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     },
     {
