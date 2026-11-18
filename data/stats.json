@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17 13:29 UTC",
+  "generated_at": "2026-11-18 13:06 UTC",
   "month": "2026-11",
   "organization": "TheTuringClubJU",
   "people": {
@@ -147,8 +147,8 @@
       "deletions_month": 110,
       "prs_merged_all": 6,
       "prs_merged_month": 2,
-      "prs_opened_all": 7,
-      "prs_opened_month": 3,
+      "prs_opened_all": 8,
+      "prs_opened_month": 4,
       "repositories": 2,
       "reviews_all": 0,
       "reviews_month": 0
@@ -186,7 +186,7 @@
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
       "prs_merged": 25,
-      "prs_opened": 32,
+      "prs_opened": 33,
       "reviews": 54,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     },
