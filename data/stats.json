@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18 13:06 UTC",
+  "generated_at": "2026-11-19 13:13 UTC",
   "month": "2026-11",
   "organization": "TheTuringClubJU",
   "people": {
@@ -15,8 +15,8 @@
       "prs_opened_all": 29,
       "prs_opened_month": 8,
       "repositories": 3,
-      "reviews_all": 32,
-      "reviews_month": 13
+      "reviews_all": 35,
+      "reviews_month": 16
     },
     "Diganth07": {
       "additions_all": 0,
@@ -123,6 +123,21 @@
       "reviews_all": 2,
       "reviews_month": 2
     },
+    "sankarpandey482006-cloud": {
+      "additions_all": 0,
+      "additions_month": 0,
+      "commits_all": 0,
+      "commits_month": 0,
+      "deletions_all": 0,
+      "deletions_month": 0,
+      "prs_merged_all": 0,
+      "prs_merged_month": 0,
+      "prs_opened_all": 1,
+      "prs_opened_month": 1,
+      "repositories": 1,
+      "reviews_all": 0,
+      "reviews_month": 0
+    },
     "shxhxn": {
       "additions_all": 10759,
       "additions_month": 8423,
@@ -182,12 +197,12 @@
     },
     {
       "commits": 95,
-      "contributors": 7,
+      "contributors": 8,
       "full_name": "TheTuringClubJU/curse-the-code",
       "name": "curse-the-code",
       "prs_merged": 25,
-      "prs_opened": 33,
-      "reviews": 54,
+      "prs_opened": 34,
+      "reviews": 57,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     },
     {
