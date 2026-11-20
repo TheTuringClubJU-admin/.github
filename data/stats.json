@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19 13:13 UTC",
+  "generated_at": "2026-11-20 12:56 UTC",
   "month": "2026-11",
   "organization": "TheTuringClubJU",
   "people": {
@@ -15,8 +15,8 @@
       "prs_opened_all": 29,
       "prs_opened_month": 8,
       "repositories": 3,
-      "reviews_all": 35,
-      "reviews_month": 16
+      "reviews_all": 36,
+      "reviews_month": 17
     },
     "Diganth07": {
       "additions_all": 0,
@@ -202,7 +202,7 @@
       "name": "curse-the-code",
       "prs_merged": 25,
       "prs_opened": 34,
-      "reviews": 57,
+      "reviews": 58,
       "url": "https://github.com/TheTuringClubJU/curse-the-code"
     },
     {
